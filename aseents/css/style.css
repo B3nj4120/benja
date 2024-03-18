@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(255, 0, 13, 0.568);
+}
+*{
+    margin:0;
+    padding:0;
+}
+
+.titulo{
+    background-color: rgba(0, 0, 255, 0.712);
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 12px;
+    text-align: center;
+    color:chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 50%;
+
+}
+.rayo{
+    margin-left: 300px;
+    margin-top: 230px;
+}
+.hola{
+    background-color: chartreuse;
+}
